@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c48c6b2aeaa40440a1e1364829e4d86, type: 3}
+  m_Name: NewGame-Intro
+  m_EditorClassIdentifier: 
+  dialogueData:
+  - img: {fileID: 0}
+    text: Somewhere on earth
+  - img: {fileID: 0}
+    text: Year 20XX
+  - img: {fileID: 21300000, guid: 731eccc87892cb9458b34a3d606bcdc8, type: 3}
+    text: "Glitch productions just release \u201CMurder Drones\u201D"
+  - img: {fileID: 21300000, guid: 731eccc87892cb9458b34a3d606bcdc8, type: 3}
+    text: The most critically acclaimed series in the whole world.
+  - img: {fileID: 21300000, guid: a9b953c422f48a64888a05e72d70e749, type: 3}
+    text: 'Due to its major popularity, several scientists have attempted to bring
+      the drones to life. '
+  - img: {fileID: 0}
+    text: And after many failures,
+  - img: {fileID: 0}
+    text: 'they finally succeeded. '
+  - img: {fileID: 6937817954938267909, guid: b9ad2ce391c385d4ca955cc1a837d9de, type: 3}
+    text: "The pet-drones have been made, and have immediately become a part of everyone\u2019s
+      daily lives. "
+  - img: {fileID: 6937817954938267909, guid: b9ad2ce391c385d4ca955cc1a837d9de, type: 3}
+    text: 'So much so an entire business sector has been recognized. '
+  - img: {fileID: 6937817954938267909, guid: b9ad2ce391c385d4ca955cc1a837d9de, type: 3}
+    text: 'The breeding and commercialization of the pet-drones. '
+  - img: {fileID: 0}
+    text: 'Now, here comes you. '
+  - img: {fileID: -6470460504253458178, guid: d00835ac2d7a9374db701d14e46de14c, type: 3}
+    text: 'A broke college graduate with a diploma that will not benefit you whatsoever. '
+  - img: {fileID: -6470460504253458178, guid: d00835ac2d7a9374db701d14e46de14c, type: 3}
+    text: 'In your dire financial status, you begin a business selling and raising
+      these pet-drones. '
+  - img: {fileID: 0}
+    text: demo over game comes out 2050
